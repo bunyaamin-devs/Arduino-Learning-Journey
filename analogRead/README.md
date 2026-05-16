@@ -9,8 +9,7 @@ A beginner Arduino project that checks the voltage passing through a resistor, m
 - `analogRead()`
 - `delay()`
 
-## 📚 Concepts Used
-- `analogRead()`
+## 📚 Concepts Learned
 - `analogRead()`
 - `Serial.begin()`
 - `Serial.println()`
