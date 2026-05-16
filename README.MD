@@ -8,7 +8,8 @@ This repository documents my hands-on practice with Arduino, electronics, LEDs, 
 - LED Blink
 - Three LED Blink
 - Traffic Light System
-- LED Binary Counter
+- LED Binary Counter (1 - 31)
+- Voltage Monitor
 
 
 ## 🎯 Goals
